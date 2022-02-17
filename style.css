@@ -1,0 +1,23 @@
+body {
+				font: 15px;
+				margin: 22px;
+				
+}
+.head img {
+				width: auto;
+				height: 185px;
+				position: center;
+}
+.font {
+				text-align: center;
+				font-size: 25px;
+}
+.t {
+				text-align: center;
+				font-size: 15px;
+				color: #47474d;
+}
+.box {
+				border: 60px;
+				
+}
